@@ -1,0 +1,5 @@
+{
+  "name": "PensionBroker Pro Insights",
+  "description": "A pre-call intelligence tool for pension appointment setters. It uses Gemini with Google Search Grounding to analyze companies, identify trigger events, and generate tailored call scripts.",
+  "requestFramePermissions": []
+}
